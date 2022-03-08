@@ -28,4 +28,4 @@ val hb12devtn = developer {
 <br>
 <p align="center">
 🐍<img src="https://i.imgur.com/uyzXdOe.gif" width="200">🐍
-<img src="https://raw.githubusercontent.com/hb12devtn/hb12devtn/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/hb12DevTn/hb12devtn/main/github-user-contribution.svg">
