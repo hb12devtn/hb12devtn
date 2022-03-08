@@ -24,7 +24,7 @@ val hb12devtn = developer {
   <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=hb12devtn&custom_title=hb12devtn's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545" />
 </p>
 
-## Watch my contribution graph being eaten by a snake🐍
+## It's just my contribution graph being eaten by a snake 🐍
 <p align="center">
   <img src="https://raw.githubusercontent.com/hb12DevTn/hb12devtn/main/github-user-contribution.svg" alt="snake"/>
 </p>
