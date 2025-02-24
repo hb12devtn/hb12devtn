@@ -4,7 +4,7 @@
 val hb12devtn = developer {
     about {
         name = "Hamdi Bougattaya"
-        company = Extra Red
+        company = Tahakom
     }
     links {
         twitter = "@hb12devtn"
